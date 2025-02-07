@@ -1,0 +1,444 @@
+Bán 5 bánh
+
+ Bán 1 chiêc : ThickcrustBread
+
+Bánh còn lại
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+
+Sắp xếp bánh theo giá giảm dần:
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+
+ Bán 1 chiêc : ThickcrustBread
+
+Bánh còn lại
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+
+Sắp xếp bánh theo giá giảm dần:
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+
+ Bán 1 chiêc : ThickcrustBread
+
+Bánh còn lại
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+
+Sắp xếp bánh theo giá giảm dần:
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+
+ Bán 1 chiêc : ThickcrustBread
+
+Bánh còn lại
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+
+Sắp xếp bánh theo giá giảm dần:
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+
+ Bán 1 chiêc : ThickcrustBread
+
+Bánh còn lại
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+
+Sắp xếp bánh theo giá giảm dần:
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Olives, 32.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThickcrustBread + Cheese, 31.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Cheese + Olives, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives + Cheese, 23.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Olives, 22.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+ThincrustBread + Cheese, 21.0
+
+10 Bánh có giá cao :
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Cheese + Olives, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+ThickcrustBread + Olives + Cheese, 33.0
+

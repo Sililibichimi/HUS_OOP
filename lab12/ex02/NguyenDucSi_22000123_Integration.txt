@@ -1,0 +1,37 @@
+Array Polynomial:
+First poly:
+9.0 + 6.0 * x  + 6.9 * x ^ 2 + 2.0 * x ^ 3
+Second poly:
+6.0 + 2.2 * x  + 3.1 * x ^ 2
+Add 2 polys:
+15.0 + 8.2 * x  + 10.0 * x ^ 2 + 2.0 * x ^ 3
+Minus 2 polys:
+3.0 + 3.8 * x  + 3.8000000000000003 * x ^ 2 + 2.0 * x ^ 3
+Multiply 2 polys:
+54.0 + 55.8 * x  + 82.5 * x ^ 2 + 45.78 * x ^ 3 + 25.79 * x ^ 4 + 6.2 * x ^ 5
+Value of first poly with x = 2:
+48.6
+Value of second poly with x = 2:
+10.4
+
+List Polynomial:
+First poly:
+6.9 + 9.6 * x  + 696.0 * x ^ 2 + 888.0 * x ^ 3
+Second poly:
+10.0 + 21.0 * x  + 33.0 * x ^ 2
+Add 2 polys:
+16.9 + 30.6 * x  + 729.0 * x ^ 2 + 888.0 * x ^ 3
+Minus 2 polys:
+6.899999999999999 + 9.600000000000001 * x  + 696.0 * x ^ 2 + 888.0 * x ^ 3
+Multiply 2 polys:
+68.99999999999999 + 240.89999999999998 * x  + 7389.3 * x ^ 2 + 23812.8 * x ^ 3 + 41616.0 * x ^ 4 + 29304.0 * x ^ 5
+Value of first poly with x = 2:
+9914.1
+Value of second poly with x = 2:
+184.0
+
+Polynomial:
+1.0 + 2.0 * x  + 3.0 * x ^ 2
+SimpsonRule: 1005.0
+MidpointRule: 560.9736328125
+TrapezoidRule: 2020.06103515625
